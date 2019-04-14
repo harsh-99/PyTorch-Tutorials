@@ -14,3 +14,5 @@ This repository contains notebooks to learn Pytorch step by step. All are writte
 * Pytorch
 * Jupyter Notebook
 * Python 3
+### Contributing
+Have anything in mind which you think can be helpful, please create an issue and let me know. So that I can incorporate that here. If you wish to contribute feel free to send a pull request. 
