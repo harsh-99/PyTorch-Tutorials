@@ -1,5 +1,5 @@
 # PyTorch-Tutorials
-This repository contains notebooks to learn Pytorch step by step. All are written in jupyter notebook so that one can tweak the code and check the results for the same.
+This repository contains notebooks to learn Pytorch step by step. All are written in jupyter notebook so that one can tweak the code and check the results for the same. I assume that reader have basic understanding of Machine learning and deep learning.
 ### Content 
 * <a href = "https://github.com/harsh-99/PyTorch-Tutorials/blob/master/Basic%20and%20Linear%20Regression.ipynb">Basic and Linear Regression</a> - Tensors, tensors to numpy and vice versa, training a normal linear regression model
 * <a href= "https://github.com/harsh-99/PyTorch-Tutorials/blob/master/Logistic%20regression%20and%20Neural%20Network%20Pratise.ipynb"> Logistic regression and Neural Network </a> - Help you load a dataset, Basic architecture of writing a neural network, build a logistic regression model and neural network. 
